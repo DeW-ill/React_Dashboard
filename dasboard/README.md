@@ -90,7 +90,45 @@ You can learn more about me by visiting my [Portfolio Web](https://dew-ill.verce
     >
     > In this step, all components, pages and files that make up the entire project were created.
     > <br>
-    <hr />
+    - [x] Create Componentes
+    - [x] Button
+    - [x] Charts
+    - [x] Chat
+    - [x] Cart
+    - [x] Charts Header
+    - [x] Header
+    - [x] Footer
+    - [x] Notifications
+    - [x] Navbar
+    - [x] Sidebar
+    - [x] ThemeSettings
+    - [x] UsesrProfile
+    - [x] Index
+
+- [x] Pages
+
+  - [x] Charts
+
+    - [x] Area
+    - [x] Bar
+    - [x] ColorMapping
+    - [x] Finacial
+    - [x] Line
+    - [x] Pie
+    - [x] Pyramid
+    - [x] Stacked
+
+  - [x] Calendar
+  - [x] ColorPicker
+  - [x] Customers
+  - [x] Ecommerce
+  - [x] Editor
+  - [x] Employees
+  - [x] index
+  - [x] Kanban
+  - [x] Orders
+
+   <hr />
 
 ## Coding
 
