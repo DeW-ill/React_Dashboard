@@ -69,8 +69,28 @@ You can learn more about me by visiting my [Portfolio Web](https://dew-ill.verce
   - [x] Installation of dependencies
         <br />
     > Dependencies can be installed manually just by changing the package.json file, or following the [Tailwind CSS](https://tailwindcss.com/docs/guides/create-react-app) documentation walkthrough
-  - [x] structure folders > <br /> > > **Folders** > > In this step, the components, pages, contexts and data folders were created. > The data folder is serving as a Fake API, but later, I will make an Api Rest and connect it to the project. > <br>
-  <hr />
+    > <br />
+  - [x] Folder structuring
+
+    <br />
+
+    > <br />
+    >
+    > **Folders**
+    >
+    > In this step, the components, pages, contexts and data folders were created.
+    > The data folder is serving as a Fake API, but later, I will make an
+    > Api Rest and connect it to the project.
+    > <br>
+
+  - [ ] Folder structuring part two
+    > <br />
+    >
+    > **Folders part two**
+    >
+    > In this step, all components, pages and files that make up the entire project were created.
+    > <br>
+    <hr />
 
 ## Coding
 
@@ -78,9 +98,10 @@ You can learn more about me by visiting my [Portfolio Web](https://dew-ill.verce
 
   - [x] Theme configuration button
   - [ ] Sidebar
-  - [ ] Context API
-  - [ ] Context API
-  - [ ] Sidebar
+    - [x] Active Menu/ Deactive Menu
+    - [ ] UI
+  - [x] Routes
+    - [x] Preparation of routes
   - [ ] Context API
   - [ ] Navbar
   - [ ] Homepage
@@ -95,9 +116,10 @@ You can learn more about me by visiting my [Portfolio Web](https://dew-ill.verce
   - [ ] Deployment
 
 <hr >
-In the project directory, you can run:
 
 ## Run project
+
+In the project directory, you can run:
 
 > <br />
 >
