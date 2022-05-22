@@ -42,7 +42,7 @@ You can learn more about me by visiting my [Portfolio Web](https://dew-ill.verce
     >
     > > I encountered a problem with Tailwind (My first contact with this CSS framework) so I decided to follow the documentation and this solved my problem
     >
-    > ```
+    > ```node
     > $ npm install -D tailwindcss postcss autoprefixer
     > $ npx tailwindcss init -p
     > ```
@@ -58,7 +58,7 @@ You can learn more about me by visiting my [Portfolio Web](https://dew-ill.verce
     >
     > > Encontrei um problema com o Tailwind (meu primeiro contato com esse framework CSS) então resolvi seguir a documentação e isso resolveu meu problema
     >
-    > ```
+    > ```node
     > $ npm install -D tailwindcss postcss autoprefixer
     > $ npx tailwindcss init -p
     > ```
@@ -69,19 +69,30 @@ You can learn more about me by visiting my [Portfolio Web](https://dew-ill.verce
   - [x] Installation of dependencies
         <br />
     > Dependencies can be installed manually just by changing the package.json file, or following the [Tailwind CSS](https://tailwindcss.com/docs/guides/create-react-app) documentation walkthrough
-  - [x] structure folders
-    > <br />
-    >
-    > **Folders**
-    >
-    > In this step, the components, pages, contexts and data folders were created.
-    > The data folder is serving as a Fake API, but later, I will make an Api Rest and connect it to the project.
-    > <br>
+  - [x] structure folders > <br /> > > **Folders** > > In this step, the components, pages, contexts and data folders were created. > The data folder is serving as a Fake API, but later, I will make an Api Rest and connect it to the project. > <br>
+  <hr />
+
+## Coding
 
 - [ ] code App.js
 
-  - [ ] Theme configuration button
+  - [x] Theme configuration button
   - [ ] Sidebar
+  - [ ] Context API
+  - [ ] Context API
+  - [ ] Sidebar
+  - [ ] Context API
+  - [ ] Navbar
+  - [ ] Homepage
+  - [ ] Revenue Section
+  - [ ] Data Tables
+  - [ ] Calendar
+  - [ ] Kanban
+  - [ ] WYSWYG Editor
+  - [ ] Color Picker
+  - [ ] Theme Fixes
+  - [ ] Charts
+  - [ ] Deployment
 
 <hr >
 In the project directory, you can run:
