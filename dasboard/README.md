@@ -20,7 +20,7 @@ You can learn more about me by visiting my [Portfolio Web](https://dew-ill.verce
 
 ## Setup
 
-- [ ] **Project start.**
+- [x] **Project start.**
 
   - [x] React project creation
 
@@ -71,6 +71,7 @@ You can learn more about me by visiting my [Portfolio Web](https://dew-ill.verce
     > Dependencies can be installed manually just by changing the package.json file, or following the [Tailwind CSS](https://tailwindcss.com/docs/guides/create-react-app) documentation walkthrough
   - [x] structure folders
     > <br />
+    >
     > **Folders**
     >
     > In this step, the components, pages, contexts and data folders were created.
@@ -80,6 +81,7 @@ You can learn more about me by visiting my [Portfolio Web](https://dew-ill.verce
 - [ ] code App.js
 
   - [ ] Theme configuration button
+  - [ ] Sidebar
 
 <hr >
 In the project directory, you can run:
